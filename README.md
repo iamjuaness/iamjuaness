@@ -10,7 +10,7 @@
 ###
 
 
-<img align="right" height="250" src="[https://cdn.pixabay.com/photo/2023/07/25/17/10/bird-8149449_960_720.jpg](https://cdn.pixabay.com/photo/2024/01/17/07/45/ai-generated-8513789_1280.png)"  />
+<img align="right" height="250" src="https://cdn.pixabay.com/photo/2024/01/17/07/45/ai-generated-8513789_1280.png"  />
 
 ###
 
