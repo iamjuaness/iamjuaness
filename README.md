@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Juanes and I'm a <br>engineering students from Colombia!</h2>
+<h2 align="left">Hi 👋! My name is Juanes and I'm a <br>engineering student from Colombia!</h2>
 
 ###
 
