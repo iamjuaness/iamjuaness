@@ -1,16 +1,10 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!-- <br>
-<br>
-<div align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
-</div>
-<br>
-<br> -->
+
 <h1 align="center">Hello 👋 I am Juanes Cardona</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+My+Profesional+Profile!" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&center=true&vCenter=true&color=abcdef&size=20&lines=Welcome+to+My+Profile!;I+program+what+I+learn.;Without+motivation+there+are+no+projects." /></a>
 </p>
 
 <p align="center">
