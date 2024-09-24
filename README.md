@@ -20,10 +20,14 @@
     <a href="https://www.linkedin.com/in/juanes-cardona/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@iamjuaness"/></a>
     <a href = "mailto:cardonajuanes94@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iamjuaness" /></a>
   </p>
+
+   > "Code is like humor. When you have to explain it, it's bad."  
+  > — *Cory House*
+
 <br>
 <h2 align="center">About me 😎🤏</h2>
 <!--Intro start-->
-<img align="right" height="150" src="https://cdn.pixabay.com/photo/2024/01/17/07/45/ai-generated-8513789_1280.png"  />
+<img align="right" height="180" src="https://cdn.pixabay.com/photo/2024/01/17/07/45/ai-generated-8513789_1280.png"  />
 <p align="left">
 🎓 Computer and systems engineering student
 
@@ -52,7 +56,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,figma&perline=6" />
   </a>
 </p>
 <br>
@@ -77,9 +81,9 @@
 <tr border="none">
 <td width="60%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=blue-green&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=blue-green&hide_border=false" /> 
 </td>
 
 </tr>
