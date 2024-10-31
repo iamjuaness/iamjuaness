@@ -75,9 +75,13 @@
 <tr border="none">
 <td width="60%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=blue-green&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=blue-green&hide_border=false" /> 
+<p align="center"><a href="https://github.com/iamjuaness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuaness&theme=radical&layout=compact"></a></p> 
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=tokyonight&hide_border=false" /> 
+    <br></br>
+  <a href="https://github.com/iamjuaness"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamjuaness&theme=tokyonight"/>
 </td>
 
 </tr>
@@ -85,10 +89,11 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
+  <br></br>
 <div align=center>
-  <a href="https://github.com/iamjuaness" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=iamjuaness&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamjuaness&theme=juicyfresh" /><a>
+</p>
 </div>
 <!--- trophy (start) -->
 
