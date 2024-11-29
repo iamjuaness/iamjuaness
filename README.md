@@ -99,6 +99,8 @@
 
 </p>       
 <br/>
+
+   > "You only fail when you stop trying."  
 <br/>
 
 
