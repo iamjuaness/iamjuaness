@@ -40,7 +40,7 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,dotnet,npm,netlify,vercel&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
@@ -50,7 +50,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,figma,matlab&perline=6" />
   </a>
 </p>
 <br>
