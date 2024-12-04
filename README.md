@@ -1,5 +1,8 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iamjuaness/count.svg?"  />
+</div>
 
 <h1 align="center">Hello 👋 I am Juanes Cardona</strong> ✨ </h1>
 
@@ -14,6 +17,11 @@
     <a href="https://www.linkedin.com/in/juanes-cardona/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@iamjuaness"/></a>
     <a href = "mailto:cardonajuanes94@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iamjuaness" /></a>
   </p>
+
+<div align="center">
+  <img height="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+</div>
+<br>
 
    > "Code is like humor. When you have to explain it, it's bad."  
   > — *Cory House*
@@ -82,7 +90,13 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=tokyonight&hide_border=false" /> 
     <br></br>
   <a href="https://github.com/iamjuaness"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamjuaness&theme=tokyonight"/>
+    <br></br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjuaness&radius=16&theme=tokyonight&area=true&order=5" height="250" alt="activity-graph graph"/>
+  </div>
 </td>
+
+
 
 </tr>
 </table>
