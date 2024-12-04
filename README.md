@@ -85,8 +85,10 @@
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-<p align="center"><a href="https://github.com/iamjuaness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuaness&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/iamjuaness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuaness&theme=tokyonight&layout=compact"></a></p> 
   <br></br>
+  <img title="Juanes Cardona's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamjuaness&theme=tokyonight&layout=compact" />
+    <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=tokyonight&hide_border=false" /> 
     <br></br>
   <a href="https://github.com/iamjuaness"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamjuaness&theme=tokyonight"/>
