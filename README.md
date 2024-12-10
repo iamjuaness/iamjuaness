@@ -23,8 +23,7 @@
 </div>
 <br>
 
-   > "Code is like humor. When you have to explain it, it's bad."  
-  > — *Cory House*
+   > "Don't tell people your plans. Show them your results."
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
