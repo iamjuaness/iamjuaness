@@ -23,7 +23,7 @@
 </div>
 <br>
 
-   > "Don't tell people your plans. Show them your results."
+   > "Every day is a second chance."
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
