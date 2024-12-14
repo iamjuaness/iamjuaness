@@ -23,7 +23,7 @@
 </div>
 <br>
 
-   > "Every day is a second chance."
+   > "Don't watch the clock; do what it does—keep going."
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
