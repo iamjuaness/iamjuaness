@@ -23,7 +23,7 @@
 </div>
 <br>
 
-   > "Don't watch the clock; do what it does—keep going."
+   > "When life gives you lemons, make lemonade."
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
