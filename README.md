@@ -23,7 +23,7 @@
 </div>
 <br>
 
-   > "When life gives you lemons, make lemonade."
+   > "Enjoy the little things 🍃"
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
