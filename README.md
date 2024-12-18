@@ -23,7 +23,7 @@
 </div>
 <br>
 
-   > "Enjoy the little things 🍃"
+   > "Make today amazing 🚀"
 
 <br>
 <h2 align="center">About me 😎🤏</h2>
