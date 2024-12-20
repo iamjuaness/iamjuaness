@@ -23,8 +23,8 @@
 </div>
 <br>
 
-   > "Live, laugh, love 💖"
-
+   > “If you tell the truth, you don't have to remember anything.”
+   > Mark Twain
 <br>
 <h2 align="center">About me 😎🤏</h2>
 <!--Intro start-->
