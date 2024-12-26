@@ -23,8 +23,8 @@
 </div>
 <br>
 
-   > “We are what we do day by day; so that excellence is not an act, but a habit.”
-> Aristotle
+   > “Well done is better than well said.”
+>  Benjamin Franklin
 <br>
 <h2 align="center">About me 😎🤏</h2>
 <!--Intro start-->
