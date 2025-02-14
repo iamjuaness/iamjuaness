@@ -9,7 +9,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&center=true&vCenter=true&color=abcdef&size=20&lines=Welcome+to+My+Profile!;I+program+what+I+learn.;Without+motivation+there+are+no+projects." /></a>
 </p>
-.
+
 <p align="center">
     <a href="https://www.instagram.com/iamjuaness/" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="@iamjuaness" /></a>
