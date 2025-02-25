@@ -52,7 +52,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,idea,eclipse,maven,gradle,kotlin,cs,python,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,idea,eclipse,maven,gradle,kotlin,cs,python,mongodb,qsharp&perline=6" />
   </a>
 
   <h2>:wrench: Tools</h2>
