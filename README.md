@@ -1,9 +1,5 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamjuaness/count.svg?"  />
-</div>
-
 <h1 align="center">Hello 👋 I am Juanes Cardona</strong> ✨ </h1>
 
 <p align="center">
