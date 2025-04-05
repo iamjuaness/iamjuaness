@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/iamjuaness/" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="@iamjuaness" /></a>
     <a href="https://www.facebook.com/juanes.cardona3062"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@iamjuaness" /></a>
-    <a href="https://www.linkedin.com/in/juanes-cardona/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@iamjuaness"/></a>
+    <a href="https://www.linkedin.com/in/juan-esteban-cardona-velasquez" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@iamjuaness"/></a>
     <a href = "mailto:cardonajuanes94@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iamjuaness" /></a>
   </p>
 
@@ -19,7 +19,7 @@
 </div>
 <br>
 
-   > “Well done is better than well said”
+   > “Well done is better than well said.”
 >  Benjamin Franklin
 <br>
 <h2 align="center">About me 😎🤏</h2>
