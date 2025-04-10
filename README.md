@@ -19,7 +19,7 @@
 </div>
 <br>
 
-   > “Well done is better than well said."
+   > “Well done is better than well said"
 >  Benjamin Franklin
 <br>
 <h2 align="center">About me 😎🤏</h2>
