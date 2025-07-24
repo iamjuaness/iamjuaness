@@ -81,16 +81,11 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamjuaness&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
 <p align="center"><a href="https://github.com/iamjuaness"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuaness&theme=tokyonight&layout=compact"></a></p> 
-  <br></br>
   <img title="Juanes Cardona's time stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamjuaness&theme=tokyonight&layout=compact" />
-    <br></br>
+      <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjuaness&theme=tokyonight&hide_border=false" /> 
-    <br></br>
+      <br></br>
   <a href="https://github.com/iamjuaness"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamjuaness&theme=tokyonight"/>
-    <br></br>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamjuaness&radius=16&theme=tokyonight&area=true&order=5" height="250" alt="activity-graph graph"/>
-  </div>
 </td>
 
 
